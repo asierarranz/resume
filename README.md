@@ -4,6 +4,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 # Education
 Telecommunications Engineering at University of Deusto  
 Dissertation title: Data analysis and telemetry system applied to motorized vehicles  
+Honored, **Proud Alumni**(http://proud.deusto.es/alumni), as one of the 44 historically featured students based on their careers.
+Selected to represent my generation of students in the 40th anniversary of the faculty of engineering.
 
 # Employment history  
 *(including name and address of employer; official position title; detailed description of responsibilities; acknowledgement of whether part-time or full-time; and dates of employment)*
