@@ -40,7 +40,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2018/11/30) Virtual Reality Developers Roundtable. *Google for Startups Campus* [[Roundtable picture]](./panels/20181130DevFesXR18.jpg)  
 
-* (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
+* (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Panel picture]](./panels/20170629_DGT_Panel.jpg) [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
+
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
 
@@ -141,7 +142,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
 
-* (2017/05/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg)
+* (2017/05/27) Artificial Intelligence. *AI Love U: Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg)
 
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
