@@ -43,7 +43,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 *Startlight?*
 
 # Awards, prizes, and honors
-(2014/11/27) Winner BBVA InnovaApps+. Prize in collaboration with Google, for a project made for the Google Glass. [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
+(2014/12/02) Winner Best App. *El Mundo Newspaper, a 15K€ prize to create the best app for the digital transformation of the newspaper*  
+(2014/05/30) Winner BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
 
 # Complete list of intellectual property  
@@ -56,7 +57,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
-(2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632)  
+(2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)
 
 
 # Complete list of publications
