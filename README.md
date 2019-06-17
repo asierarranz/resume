@@ -30,14 +30,14 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 *(including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)*  
 
 ## Panels  
-(2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
-(2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
-(2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
+* (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
+* (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
+* (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
 ## Reviewer  
 // Due diligences
 
 ## Organizer
-Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
+* Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
 [[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)
 
 
@@ -47,34 +47,34 @@ Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologie
 *Startlight?*
 
 # Awards, prizes, and honors
-(2014/12/02) Winner Best App. *El Mundo Newspaper, a 15K€ prize to create the best app for the digital transformation of the newspaper*  
-(2014/11/27) Finalist Intel Real Sense Developer Challenge. [[Link]](https://twitter.com/asierarranz/status/538075981379280896?s=12)  
-(2014/05/30) Winner BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
+* (2014/12/02) Winner Best App. *El Mundo Newspaper, a 15K€ prize to create the best app for the digital transformation of the newspaper*  
+* (2014/11/27) Finalist Intel Real Sense Developer Challenge. [[Link]](https://twitter.com/asierarranz/status/538075981379280896?s=12)  
+* (2014/05/30) Winner BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
 
 # Complete list of intellectual property  
 *(including patents, licensed technology, etc., and website links)*
 
 # Complete list of conference/workshop presentations and invited talks  
-(2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
+* (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
-(2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
+* (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
 
-(2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
+* (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
-(2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)
+* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)
 
 
 # Complete list of publications
 ## Artificial Intelligence
-(2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
-(2018/03/21) *Your data will pay the universal basic income.* Chatbotslife.com [[Link]](https://medium.com/@asierarranz/your-data-will-pay-the-universal-basic-income-d24fe5a4d799)  
+* (2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
+* (2018/03/21) *Your data will pay the universal basic income.* Chatbotslife.com [[Link]](https://medium.com/@asierarranz/your-data-will-pay-the-universal-basic-income-d24fe5a4d799)  
 
 ## Blockchain
-(2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [[Link]](https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
+* (2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [[Link]](https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
 
 ## IoT
-(2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
+* (2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
 
 
 
