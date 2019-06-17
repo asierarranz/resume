@@ -213,8 +213,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 ## Scientific journals
 
 ### JMIR: Journal of Medical Internet Research *Impact factor 4.671*
-(2012/11/29) Crowdsourcing Malaria Parasite Quantification: An Online Game for Analyzing Images of Infected Thick Blood Smears. *J Med Internet Res. 2012;14(6):e167.* [[Link]](https://www.jmir.org/2012/6/e167/)
-* (2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
+* (2012/11/29) Crowdsourcing Malaria Parasite Quantification: An Online Game for Analyzing Images of Infected Thick Blood Smears. *J Med Internet Res. 2012;14(6):e167.* [[Link]](https://www.jmir.org/2012/6/e167/)  
+
 
 ## Featured articles and magazines [By topic]
 
