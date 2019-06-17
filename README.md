@@ -139,6 +139,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 # Complete list of intellectual property  
 *(including patents, licensed technology, etc., and website links)*
+
+* 3D printed support to connect a pair of 220FOV cameras, to achieve a full 360 camera with stitching. [[Design]](./intellectual_property/20160117_3dprinted_design.jpg) [[Cameras]](./intellectual_property/20160117_3dprinted_cameras.jpg) [[Installation on aircraft]](./intellectual_property/20160117_3dprinted_installation.jpg) [[Robot stereoscopic concept]](./intellectual_property/20160117_3dprinted_robot.jpg)
+
 // AskSkynet
 // QiskitUnityAsset
 // Flight Sim VR
