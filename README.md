@@ -12,6 +12,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * International MBA professor at IE Business School (BS Ranked #3 in Forbes) (2016-2019)  
 * Recognition of teacher excellence (2017-2018) [[Image]](./prizes/IE_Business.jpg)  
 * (2018/06/21) Business Recognition Award. *Reimagine Education Awards* [[Image]](./prizes/20180621_Business_Recognition_Award.jpg)  
+* (2017/10/29) Asier Arranz. The IE Experience. *IE Business School Magazine* [[Magazine scan]](./publications/20171029_IdeasMagazine.jpg)
 
 # Employment history  
 *(including name and address of employer; official position title; detailed description of responsibilities; acknowledgement of whether part-time or full-time; and dates of employment)*
@@ -177,7 +178,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 ## Virtual Reality
 
-* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)  
+* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)
+
+
 
 # Others:
 
