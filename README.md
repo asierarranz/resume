@@ -21,7 +21,8 @@ Selected to represent my generation of students in the 40th anniversary of the f
 * Attract the most relevant global influencers on science and quantum to the Q community.  
 * Produce multimedia video content, with external collaborations, as part of a global content and influencer strategy.  
 
-
+### IE
+[[Link]](https://www.ie.edu/university/news-events/news/wow-room-takes-ies-commitment-to-technology-immersion-in-learning-environments-to-the-next-level/)
 
 
 
@@ -30,8 +31,8 @@ Selected to represent my generation of students in the 40th anniversary of the f
 
 ## Panels  
 (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
-(2017/05/05) BIND 4.0: Industry 4.0 panel moderation: *Innovation working with startups* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
-  
+(2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
+(2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/damoto/status/771392804203421696) [[Image]](./panels/20160901_GoogleCampus.jpg)
 ## Reviewer  
   
 
@@ -41,12 +42,16 @@ Selected to represent my generation of students in the 40th anniversary of the f
 *(with rank if applicable) and details of membership organization*
 
 # Awards, prizes, and honors
+(2014/11/27) Winner BBVA InnovaApps+. Prize in collaboration with Google, for a project made for the Google Glass. [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
+
 
 # Complete list of intellectual property  
 *(including patents, licensed technology, etc., and website links)*
 
 # Complete list of conference/workshop presentations and invited talks  
-(2017/01/18) BBVA Innovation Centre
+(2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)
+
+
 
 # Complete list of publications
 ## Artificial Intelligence
