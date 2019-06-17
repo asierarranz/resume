@@ -25,6 +25,10 @@ Dissertation title: Data analysis and telemetry system applied to motorized vehi
 
 # Professional services  
 *(including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)*
+2017/06/28 *XXV Forum of automotion: Smart mobility as the key for the future of the sector* [Link](https://twitter.com/asierarranz/status/879963020574806017?s=12)
+
+
+
 
 # Memberships  
 *(with rank if applicable) and details of membership organization*
@@ -38,5 +42,5 @@ Dissertation title: Data analysis and telemetry system applied to motorized vehi
 *including dates*
 
 # Complete list of publications
-*including dates*
+How I used a chatbot with my students
 
