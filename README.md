@@ -56,6 +56,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
+(2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632)  
+
 
 # Complete list of publications
 ## Artificial Intelligence
