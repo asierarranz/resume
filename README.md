@@ -59,12 +59,17 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2012/11/08) Technical due diligence of the startup BlinkBooking, before being acquired by Groupon [[Link]](https://mashable.com/2013/09/09/groupon-acquires-blink-booking/)  
 
 ## Organizer
+
+* (2017/07/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg) [[2nd edition Image]](./conferences/20170721_AiLoveU.jpg)  
+
 * (2014/09/30) Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
 [[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)  
 
 * (2014/04/20) NASA Space Apps Challenge 2014 Organizer [[Link]](https://gipuzkoadigital.com/un-proyecto-vasco-en-la-competicion-informatica-mundial-space-apps-challenge/)  
 
 * (2013/04/19) NASA Space Apps Challenge 2013 Organizer [[Link]](https://www.abc.es/ciencia/20130419/abci-space-apps-challenge-madrid-201304191059.html)  
+
+
 
 * // IBM Tech&Moda SF
 
@@ -135,6 +140,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 
 * (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
+
+* (2017/05/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg)
 
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
