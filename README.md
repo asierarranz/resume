@@ -7,6 +7,11 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * Honored, [[**Proud Alumni**]](http://proud.deusto.es/alumni), as one of the 44 historically featured students based on their careers.
 * Selected to represent my generation of students in the roundtable of the 40th anniversary of the faculty of engineering.
 
+# Academy
+
+* International MBA professor at IE Business School (BS Ranked #3 in Forbes) (2016-2019)
+* Recognition of teacher excellence (2017-2018)
+
 # Employment history  
 *(including name and address of employer; official position title; detailed description of responsibilities; acknowledgement of whether part-time or full-time; and dates of employment)*
 ### IBM  
@@ -56,6 +61,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 *(including patents, licensed technology, etc., and website links)*
 
 # Complete list of conference/workshop presentations and invited talks  
+
+## Conferences
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
 * (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
@@ -64,16 +71,32 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)
 
+## Workshops
+
+// Programming videogames (Alava/Santander)
+
+// Google glass (Brasil)
+
+
 
 # Complete list of publications
-## Artificial Intelligence
+
+## High impact factor scientific journals
+(2012/11/29) Crowdsourcing Malaria Parasite Quantification: An Online Game for Analyzing Images of Infected Thick Blood Smears. *J Med Internet Res. 2012;14(6):e167.* [[Link]](https://www.jmir.org/2012/6/e167/)
+* (2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
+
+## Featured articles and magazines
+
+### Artificial Intelligence
 * (2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
 * (2018/03/21) *Your data will pay the universal basic income.* Chatbotslife.com [[Link]](https://medium.com/@asierarranz/your-data-will-pay-the-universal-basic-income-d24fe5a4d799)  
 
-## Blockchain
+### Blockchain
 * (2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [[Link]](https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
 
-## IoT
+### Big data
+
+### IoT
 * (2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
 
 
