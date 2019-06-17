@@ -52,9 +52,13 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 *Startlight?*
 
 # Awards, prizes, and honors
-* (2014/12/02) Winner Best App. *El Mundo Newspaper, a 15K€ prize to create the best app for the digital transformation of the newspaper*  
+* (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
+
+* (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  
 * (2014/11/27) Finalist Intel Real Sense Developer Challenge. [[Link]](https://twitter.com/asierarranz/status/538075981379280896?s=12)  
-* (2014/05/30) Winner BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
+
+* (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
+
 
 
 # Complete list of intellectual property  
@@ -63,6 +67,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 # Complete list of conference/workshop presentations and invited talks  
 
 ## Conferences
+
+* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Image]](./conferences/20160521_SVCTA.jpg)
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
 * (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
@@ -83,7 +89,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 ## Scientific journals
 
-### JMIR: *Impact factor 4.671*
+### JMIR: Journal of Medical Internet Research *Impact factor 4.671*
 (2012/11/29) Crowdsourcing Malaria Parasite Quantification: An Online Game for Analyzing Images of Infected Thick Blood Smears. *J Med Internet Res. 2012;14(6):e167.* [[Link]](https://www.jmir.org/2012/6/e167/)
 * (2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
 
@@ -96,11 +102,14 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 ### Blockchain
 * (2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [[Link]](https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
 
-### Big data
-
 ### IoT
 * (2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
 
 
+# Others:
 
+## WebVR Portfolio
+
+### A WebGL based portfolio
+[[Link]](https://asierarranz.com/webvr/)
 
