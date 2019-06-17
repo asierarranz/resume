@@ -109,6 +109,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2018/06/21) Global Top Writter. *Medium* [[Image]](./prices/20180621_TopWriter.jpg)  
 
+* (2016/03/01) First Wave Developer. *Microsoft Hololens* [[Image]](./prizes/20160301_Hololens.jpg) [[Video Review]]
+
 * (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
 
 * (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  
