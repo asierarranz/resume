@@ -30,6 +30,7 @@ Selected to represent my generation of students in the 40th anniversary of the f
 
 ## Panels  
 (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [Link](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
+
   
 ## Reviewer  
   
