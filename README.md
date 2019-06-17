@@ -23,15 +23,20 @@ Dissertation title: Data analysis and telemetry system applied to motorized vehi
 
 
 
-# Professional services (including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)
+# Professional services  
+*(including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)*
 
-# Memberships (with rank if applicable) and details of membership organization
+# Memberships  
+*(with rank if applicable) and details of membership organization*
 
 # Awards, prizes, and honors
 
-# Complete list of intellectual property (including patents, licensed technology, etc., and website links) 
+# Complete list of intellectual property  
+*(including patents, licensed technology, etc., and website links)*
 
-# Complete list of conference/workshop presentations and invited talks(including dates)
+# Complete list of conference/workshop presentations and invited talks  
+*including dates*
 
-# Complete list of publications (including dates)
+# Complete list of publications
+*including dates*
 
