@@ -105,8 +105,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2019/03/01) Winner at Qiskit Camp. Quantum Computing Hackathon by IBM.  [[Link]](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179) 
 
-* (2018/06/21) Global Top Writter. *Medium* [[Image]](./prices/20180621_TopWriter.jpg)  
+* (2017/06/24) Honored by the Spanish Air Force due to the recordings of some of their maneouvers with the Boeing EF-18 for Virtual Reality. [[Image]](./prizes/20170624_AirForce2.jpg) [[Image]](./prizes/20170624_AirForce1.jpg)  
 
+* (2018/06/21) Global Top Writter. *Medium* [[Image]](./prices/20180621_TopWriter.jpg)  
 
 * (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
 
@@ -168,7 +169,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
 
-* (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
+* (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Conference picture]](./conferences/20160506_UXSpain.jpg)  [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
 * (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)  
 
