@@ -39,14 +39,22 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
 ## Reviewer  
-// Due diligences
-// Jurado Fiware 75K
+
+* (2017/02/22) Ambassador to the Innovators Under 35. *MIT Technology Review*  
+
+* (2014/01/28) Evaluator of the projects presented to the European Comission project FiWare (Sao Paulo, Brasil)  
+
+* (2012/11/15) Technical due diligence of the startup [Job and Talent](https://www.jobandtalent.com) before raising €40M [Link](https://www.abc.es/tecnologia/moviles/aplicaciones/abci-jobandtalent-capta-40-millones-euros-financiacion-201606141002_noticia.html)  
+
+* (2012/11/08) Technical due diligence of the startup BlinkBooking, before being acquired by Groupon [[Link]](https://mashable.com/2013/09/09/groupon-acquires-blink-booking/)  
 
 ## Organizer
-* Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
-[[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)
+* (2014/09/30) Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
+[[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)  
 
-//organizador del NASA Space Apps Challenge,
+* (2014/04/20) NASA Space Apps Challenge 2014 Organizer [[Link]](https://gipuzkoadigital.com/un-proyecto-vasco-en-la-competicion-informatica-mundial-space-apps-challenge/)  
+
+* (2013/04/19) NASA Space Apps Challenge 2013 Organizer [[Link]](https://www.abc.es/ciencia/20130419/abci-space-apps-challenge-madrid-201304191059.html)  
 
 
 
@@ -111,7 +119,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 // Google glass (Brasil)
 
-
+// Repsol
 
 # Complete list of publications
 
