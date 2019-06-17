@@ -11,6 +11,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * International MBA professor at IE Business School (BS Ranked #3 in Forbes) (2016-2019)  
 * Recognition of teacher excellence (2017-2018) [[Image]](./prizes/IE_Business.jpg)  
+* (2018/06/21) Business Recognition Award. *Reimagine Education Awards* [[Image]](./prizes/20180621_Business_Recognition_Award.jpg)  
 
 # Employment history  
 *(including name and address of employer; official position title; detailed description of responsibilities; acknowledgement of whether part-time or full-time; and dates of employment)*
