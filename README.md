@@ -117,7 +117,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
 
-* (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  
+* (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  [[Article in the newspaper]](./prizes/20141130_ElMundo.jpg)  
+
 * (2014/11/27) Finalist Intel Real Sense Developer Challenge. [[Link]](https://twitter.com/asierarranz/status/538075981379280896?s=12)  
 
 * (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
@@ -187,6 +188,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)  
 
 * (2015/07/05) Emerging Technologies. *TEDx Cibeles* [[Image]](./conferences/20150705_TEDxCibeles.jpg)
+
+* (2014/10/05) Emerging Technologies. *Campus Ecuador (Quito)* [[Conference picture]](./conferences/20141005_CPQuito.jpg)  
 
 * (2013/09/26) Virtual reality, real perception: Tricking your brain *TEDx Alcarria.*  [[Image]](./conferences/20130926_TEDxAlcarria.jpg)
 
