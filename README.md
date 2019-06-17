@@ -61,7 +61,10 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
 
+* (2016/12/05) Panel moderator: Spain VR Startups. *Google for Startups.*  [[Panel picture]](./panels/20161205_VRsummit.jpg)
+
 * (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg)   
+
 
 
 
@@ -76,6 +79,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2012/11/08) Technical due diligence of the startup BlinkBooking, before being acquired by Groupon [[Link]](https://mashable.com/2013/09/09/groupon-acquires-blink-booking/)  
 
 ## Organizer
+
 
 * (2017/07/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg) [[2nd edition Image]](./conferences/20170721_AiLoveU.jpg)  
 
@@ -152,9 +156,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](./conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
 
-
 * (2018/11/30) How to make a VR game in a lunar phase. *Google for Startups Campus* [[Announcement]](https://twitter.com/asierarranz/status/1067763201838845952) [[Conference picture]](./conferences/20181130_Google_Games.jpg) 
-
 
 * (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
 
@@ -204,7 +206,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 ## Virtual Reality
 
-* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)
+* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)  
+
+* (2016/12/18) Capturing the Virtual World. *Pro Moviemaker Magazine* [[Magazine Scan]](./publications/20161218_ProMoviemaker.jpg)  
 
 
 
