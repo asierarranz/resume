@@ -179,7 +179,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 ## Workshops
 
-* (2017/03/17) Exponential Technologies (20 hours). *Cantabria Government.* [[Image]](./teaching/20170317_ExponentialTechnologies.jpg)  
+* (2017/03/17) Exponential Technologies (20 hours). *Cantabria Government.* [[Image]](./teaching/20170317_ExponentialTechnologies.jpg) [[Video Interview]](https://www.youtube.com/watch?v=TCM5iKrLG1w)    
 
 // Programming videogames (Alava/Santander)
 
