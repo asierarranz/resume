@@ -99,9 +99,11 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
-* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)
+* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)  
 
-(2015/07/05) TEDx Cibeles: Emerging Technologies. ** [[Image]](./conferences/20150705_TEDxCibeles.jpg)
+* (2015/07/05) Emerging Technologies. *TEDx Cibeles* [[Image]](./conferences/20150705_TEDxCibeles.jpg)
+
+* (2013/09/26) Virtual reality, real perception: Tricking your brain *TEDx Alcarria.*  [[Image]](./conferences/20130926_TEDxAlcarria.jpg)
 
 ## Workshops
 
