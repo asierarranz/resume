@@ -56,6 +56,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2013/04/19) NASA Space Apps Challenge 2013 Organizer [[Link]](https://www.abc.es/ciencia/20130419/abci-space-apps-challenge-madrid-201304191059.html)  
 
+* // IBM Tech&Moda SF
+
+
 
 
 # Memberships  
@@ -63,6 +66,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 *Startlight?*
 
 # Awards, prizes, and honors
+
+* (2019/03/01) Winner at Qiskit Camp. Quantum Computing Hackathon by IBM.  [[Link]](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179) 
+
 * (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
 
 * (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  
@@ -70,17 +76,15 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
-// Nokia Mobile Rules
+* (2011/10/15) Double Winner Campus Milenio [[Image]](./prizes/20111015_CampusMilenio.jpg) [[Link]](https://www.fayerwayer.com/2011/10/cpmilenio-los-proyectos-ganadores-del-campus-party-milenio/)  
 
-// PyNoki
+* (2010/04/10) Innovation Winner. *Campus Europa 2010.* [[Link]](https://www.laverdad.es/murcia/v/20100417/cultura/movil-vigia-protesis-entre-20100417.html)  
 
-// Telefónica (Mashup Contest, 2009)
+* (2009/11/07) Finalist Google Developer Challenge with Nebudroid. [[Link]](https://www.htcmania.com/showthread.php?t=76762) [[Link]](https://elandroideimportacion.wordpress.com/2009/09/01/nebudroid-el-puente-interactivo/) 
 
-// Ciberprix
+* (2009/05/20) 1st Prize Open Mobile Forum. *Telefónica.* [[Link]](http://altweb20.blogspot.com/2009/05/open-movilforum-pynoki.html)  
 
-// Google (Android Developer Challenge,2010)
-
-// Campus Party (2011, 2012)
+* (2008/05/27) Nokia Mobile Rules Finalist. *Nokia Headquarters. Espoo. Finland* [[Link]](https://www.xatakamovil.com/futuro/una-visita-a-la-sede-de-nokia)  
 
 // Mobile World Congress (Green Hackathon, 2012),
 
@@ -90,10 +94,18 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 // Oracle(TadHack 2014),
 
-// 
 
 # Complete list of intellectual property  
 *(including patents, licensed technology, etc., and website links)*
+// AskSkynet
+// QiskitUnityAsset
+// Flight Sim VR
+// Into THe Lake
+// Moon Lander Simulator
+// CryptoRadar
+// Google Glass Repo
+// SmartWatch
+// Showcase de proyectos
 
 # Complete list of conference/workshop presentations and invited talks  
 
