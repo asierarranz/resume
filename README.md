@@ -3,7 +3,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 # Education
 Telecommunications Engineering at University of Deusto  
-Dissertation title: Data analysis and telemetry system applied to motorized vehicles  
+Dissertation: A. Arranz, D. Iglesias, A. Moreno, T. Oraa (2016) *Data analysis and telemetry system applied to motorized vehicles*  
 Honored, **Proud Alumni**(http://proud.deusto.es/alumni), as one of the 44 historically featured students based on their careers.
 Selected to represent my generation of students in the 40th anniversary of the faculty of engineering.
 
