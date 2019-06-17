@@ -37,9 +37,12 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 ## Panels  
 * (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
-* (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
+* (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
 
-* (2017/11/27) Virtual Reality Panel. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg) 
+* (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg)   
+
+
+
 ## Reviewer  
 
 * (2017/02/22) Ambassador to the Innovators Under 35. *MIT Technology Review*  
