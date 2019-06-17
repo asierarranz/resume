@@ -228,6 +228,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 ### IoT
 * (2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
 
+* (2014/06/22) Asier Arranz, a technical wizard. *IBERIA Airlines Onboard Magazine* [[Picture of the magazine]](./publications/20140622_Iberia.jpg)  
+
 ## Virtual Reality
 
 * (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)  
