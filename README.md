@@ -5,7 +5,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * Telecommunications Engineering at University of Deusto  
 * Dissertation: A. Arranz, D. Iglesias, A. Moreno, T. Oraa (2016) *Data analysis and telemetry applied to motorized vehicles*  
 * Honored, [[**Proud Alumni**]](http://proud.deusto.es/alumni), as one of the 44 historically featured students based on their careers.
-* Selected to represent my generation of students in the roundtable of the 40th anniversary of the faculty of engineering. [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg)
+* Selected to represent my generation of students in the roundtable of the 40th anniversary of the faculty of engineering. [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](./panels/20170409_Deusto_ESIDE2.jpg)  
 
 # Academy
 
@@ -57,7 +57,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 
-* (2017/04/09) Engineering Faculty 40th anniversary. *University of Deusto* [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](https://agenda.deusto.es/celebracion-del-40-aniversario-de-la-facultad-de-ingenieria/)  
+* (2017/04/09) Engineering Faculty 40th anniversary. *University of Deusto* [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](https://agenda.deusto.es/celebracion-del-40-aniversario-de-la-facultad-de-ingenieria/) [[Announcement]](./panels/20170409_Deusto_ESIDE2.jpg)  
 
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
 
