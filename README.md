@@ -56,5 +56,9 @@ Selected to represent my generation of students in the 40th anniversary of the f
 ## Blockchain
 (2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [[Link]](https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
 
+## IoT
+(2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
+
+
 
 
