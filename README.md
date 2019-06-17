@@ -8,7 +8,7 @@ Dissertation title: Data analysis and telemetry system applied to motorized vehi
 # Employment history  
 *(including name and address of employer; official position title; detailed description of responsibilities; acknowledgement of whether part-time or full-time; and dates of employment)*
 ### IBM  
-**Address:**1101 Kitchawan Road, Yorktown. (New York)  
+**Address:** 1101 Kitchawan Road, Yorktown. (New York)  
 **Position:** Quantum Community Lab Lead  
 **Detailed description of responsabilities:**  
 * Explore the latest technologies (Virtual Reality, Artificial Intelligence, Embedded systems like Raspberry Pi or Arduino) with quantum computing concepts to build meaningful short-term projects.  
