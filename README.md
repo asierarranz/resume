@@ -9,8 +9,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 # Academy
 
-* International MBA professor at IE Business School (BS Ranked #3 in Forbes) (2016-2019)
-* Recognition of teacher excellence (2017-2018)
+* International MBA professor at IE Business School (BS Ranked #3 in Forbes) (2016-2019)  
+* Recognition of teacher excellence (2017-2018) [[Image]](./prizes/IE_Business.jpg)  
 
 # Employment history  
 *(including name and address of employer; official position title; detailed description of responsibilities; acknowledgement of whether part-time or full-time; and dates of employment)*
@@ -115,6 +115,12 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 # Complete list of conference/workshop presentations and invited talks  
 
 ## Conferences
+
+* (2019/04/25) Main Stage Speaker. *TalentLand 2019* [[Image]](./conferences/20190425_TalentLand0.jpg) [[Image]](./conferences/20190425_TalentLand1.jpg) [[Image]](./conferences/20190425_TalentLand2.jpg)  
+
+* (2019/05/28) Artificial Intelligence with Unity. *Google for Startups Campus* [[Image]](./conferences/20190528_AIGoogle.jpg)  
+
+* (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](./conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
 
 * (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
 
