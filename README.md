@@ -118,7 +118,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2019/04/25) Main Stage Speaker. *TalentLand 2019* [[Image]](./conferences/20190425_TalentLand0.jpg) [[Image]](./conferences/20190425_TalentLand1.jpg) [[Image]](./conferences/20190425_TalentLand2.jpg)  
 
-* (2019/05/28) Artificial Intelligence with Unity. *Google for Startups Campus* [[Image]](./conferences/20190528_AIGoogle.jpg)  
+* (2019/05/28) Artificial Intelligence with Unity. *Google for Startups Campus* [[Image]](./conferences/20190528_AIGoogle.jpg) [[Video]](https://twitter.com/frenopatico/status/1111339613929517057)   
 
 * (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](./conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
 
