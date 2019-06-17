@@ -40,10 +40,13 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
 ## Reviewer  
 // Due diligences
+// Jurado Fiware 75K
 
 ## Organizer
 * Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
 [[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)
+
+//organizador del NASA Space Apps Challenge,
 
 
 
@@ -59,7 +62,27 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
+// Nokia Mobile Rules
 
+// PyNoki
+
+// Telefónica (Mashup Contest, 2009)
+
+// Ciberprix
+
+// Google (Android Developer Challenge,2010)
+
+// Campus Party (2011, 2012)
+
+// Mobile World Congress (Green Hackathon, 2012),
+
+// Merck (2013), 
+
+// Wayra (2013), 
+
+// Oracle(TadHack 2014),
+
+// 
 
 # Complete list of intellectual property  
 *(including patents, licensed technology, etc., and website links)*
@@ -68,7 +91,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 ## Conferences
 
-* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Image]](./conferences/20160521_SVCTA.jpg)
+* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
+
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
 * (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
@@ -76,6 +100,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
 * (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)
+
+(2015/07/05) TEDx Cibeles: Emerging Technologies. ** [[Image]](./conferences/20150705_TEDxCibeles.jpg)
 
 ## Workshops
 
