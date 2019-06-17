@@ -46,5 +46,7 @@ Dissertation title: Data analysis and telemetry system applied to motorized vehi
 *including dates*
 
 # Complete list of publications
-How I used a chatbot with my students
+## Artificial Intelligence
+2018/04/01 *How I used a chatbot with my students* [Link](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
+
 
