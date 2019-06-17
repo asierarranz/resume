@@ -51,7 +51,7 @@ Dissertation title: Data analysis and telemetry system applied to motorized vehi
 (2018/03/21) *Your data will pay the universal basic income.* Chatbotslife.com [Link](https://medium.com/@asierarranz/your-data-will-pay-the-universal-basic-income-d24fe5a4d799)  
 
 ## Blockchain
-(2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [Link] (https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
+(2018/03/27) *IE Business School has launched #IEToken, a pilot program based on blockchain technologies and cryptocurrencies.* IE Business School. [Link](https://imba.blogs.ie.edu/2018/03/ie-business-school-launches-ietoken-to-work-with-blockchain-technology-on-its-international-mba/)
 
 
 
