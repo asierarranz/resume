@@ -34,7 +34,11 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
 ## Reviewer  
-  
+// Due diligences
+
+## Organizer
+Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
+[[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)
 
 
 
@@ -44,6 +48,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 # Awards, prizes, and honors
 (2014/12/02) Winner Best App. *El Mundo Newspaper, a 15K€ prize to create the best app for the digital transformation of the newspaper*  
+(2014/11/27) Finalist Intel Real Sense Developer Challenge. [[Link]](https://twitter.com/asierarranz/status/538075981379280896?s=12)  
 (2014/05/30) Winner BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
 
