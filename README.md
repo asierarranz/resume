@@ -35,6 +35,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 *(including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)*  
 
 ## Panels  
+
+* (2018/11/30) Virtual Reality Developers Roundtable. *Google for Startups Campus* [[Roundtable picture]](./panels/20181130DevFesXR18.jpg)  
+
 * (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
@@ -73,6 +76,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 # Awards, prizes, and honors
 
 * (2019/03/01) Winner at Qiskit Camp. Quantum Computing Hackathon by IBM.  [[Link]](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179) 
+
+* (2018/06/21) Global Top Writter. *Medium* [[Image]](./prices/20180621_TopWriter.jpg)  
+
 
 * (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
 
@@ -122,6 +128,10 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](./conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
 
+
+* (2018/11/30) How to make a VR game in a lunar phase. *Google for Startups Campus* [[Announcement]](https://twitter.com/asierarranz/status/1067763201838845952) [[Conference picture]](./conferences/20181130_Google_Games.jpg) 
+
+
 * (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
 
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
@@ -164,6 +174,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 ### IoT
 * (2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en) !!Añadir imagenes
 
+## Virtual Reality
+
+* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)  
 
 # Others:
 
