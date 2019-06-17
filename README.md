@@ -38,6 +38,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
+
+* (2017/11/27) Virtual Reality Panel. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg) 
 ## Reviewer  
 
 * (2017/02/22) Ambassador to the Innovators Under 35. *MIT Technology Review*  
@@ -76,6 +78,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
+* (2012/03/02) Moile World Congress Green Hackathon Winner. *Telefonica.* [[Link]](https://www.telefonica.com/en/web/public-policy/blog/article/-/blogs/asier-arranz-wins-the-1st-telefonica-and-itu-green-ict-hackathon-for-his-bicing-gamification-application)
+
 * (2011/10/15) Double Winner Campus Milenio [[Image]](./prizes/20111015_CampusMilenio.jpg) [[Link]](https://www.fayerwayer.com/2011/10/cpmilenio-los-proyectos-ganadores-del-campus-party-milenio/)  
 
 * (2010/04/10) Innovation Winner. *Campus Europa 2010.* [[Link]](https://www.laverdad.es/murcia/v/20100417/cultura/movil-vigia-protesis-entre-20100417.html)  
@@ -85,8 +89,6 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2009/05/20) 1st Prize Open Mobile Forum. *Telefónica.* [[Link]](http://altweb20.blogspot.com/2009/05/open-movilforum-pynoki.html)  
 
 * (2008/05/27) Nokia Mobile Rules Finalist. *Nokia Headquarters. Espoo. Finland* [[Link]](https://www.xatakamovil.com/futuro/una-visita-a-la-sede-de-nokia)  
-
-// Mobile World Congress (Green Hackathon, 2012),
 
 // Merck (2013), 
 
