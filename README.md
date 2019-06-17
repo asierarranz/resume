@@ -32,7 +32,7 @@ Selected to represent my generation of students in the 40th anniversary of the f
 ## Panels  
 (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
-(2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/damoto/status/771392804203421696) [[Image]](./panels/20160901_GoogleCampus.jpg)
+(2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)
 ## Reviewer  
   
 
@@ -40,6 +40,7 @@ Selected to represent my generation of students in the 40th anniversary of the f
 
 # Memberships  
 *(with rank if applicable) and details of membership organization*
+*Startlight?*
 
 # Awards, prizes, and honors
 (2014/11/27) Winner BBVA InnovaApps+. Prize in collaboration with Google, for a project made for the Google Glass. [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
