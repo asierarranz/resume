@@ -190,11 +190,16 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2013/09/26) Virtual reality, real perception: Tricking your brain *TEDx Alcarria.*  [[Image]](./conferences/20130926_TEDxAlcarria.jpg)
 
+* (2013/09/05) How to create a tech laboratory. *Campus London*  [[Conference picture]](./conferences/20130905_CPLondon.jpg)
+
 ## Workshops
 
 * (2017/03/17) Exponential Technologies (20 hours). *Cantabria Government.* [[Image]](./teaching/20170317_ExponentialTechnologies.jpg) [[Video Interview]](https://www.youtube.com/watch?v=TCM5iKrLG1w)    
 
-// Programming videogames (Alava/Santander)
+* (2014/01/31) Google Glass Development Workshop. *Campus Brasil (Sao Paulo)* [[Picture from Google Glass]](./teaching/20140131_GoogleGlassWorkshop.jpg)  
+
+
+// Programming videogames (Alava/Santander)  
 
 // Google glass (Brasil)
 
