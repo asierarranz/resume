@@ -124,12 +124,6 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 * (2013/04/19) NASA Space Apps Challenge 2013 Organizer [[Link]](https://www.abc.es/ciencia/20130419/abci-space-apps-challenge-madrid-201304191059.html)  
 
 
-
-
-# Memberships  
-*(with rank if applicable) and details of membership organization*
-*Startlight?*
-
 # Awards, prizes, and honors
 
 * (2019/03/01) Winner at Qiskit Camp. Quantum Computing Hackathon by IBM.  [[Link]](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179) 
@@ -160,11 +154,11 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2008/05/27) Nokia Mobile Rules Finalist. *Nokia Headquarters. Espoo. Finland* [[Link]](https://www.xatakamovil.com/futuro/una-visita-a-la-sede-de-nokia)  
 
-// Merck (2013),   
+* Merck (2013)  [[To be completed]]  
 
-// Wayra (2013),   
+* Wayra (2013)  [[To be completed]]     
 
-// Oracle(TadHack 2014),  
+* Oracle(TadHack 2014)  [[To be completed]]   
 
 
 # Complete list of intellectual property  
@@ -172,17 +166,14 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * 3D printed support to connect a pair of 220FOV cameras, to achieve a full 360 camera with stitching. [[Design]](./intellectual_property/20160117_3dprinted_design.jpg) [[Cameras]](./intellectual_property/20160117_3dprinted_cameras.jpg) [[Installation on aircraft]](./intellectual_property/20160117_3dprinted_installation.jpg) [[Robot stereoscopic concept]](./intellectual_property/20160117_3dprinted_robot.jpg)  
 
-* 
-
-// AskSkynet  
-// QiskitUnityAsset  
-// Flight Sim VR  
-// Into THe Lake  
-// Moon Lander Simulator  
-// CryptoRadar  
-// Google Glass Repo  
-// SmartWatch  
-// Showcase de proyectos  
+* AskSkynet   [[To be completed]]  
+* QiskitUnityAsset   [[To be completed]]  
+* Flight Sim VR   [[To be completed]]  
+* Into THe Lake   [[To be completed]]  
+* Moon Lander Simulator   [[To be completed]]  
+* CryptoRadar   [[To be completed]]  
+* Google Glass Repo   [[To be completed]]  
+* SmartWatch   [[To be completed]]   
 
 # Complete list of conference/workshop presentations and invited talks  
 
@@ -226,12 +217,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2014/01/31) Google Glass Development Workshop. *Campus Brasil (Sao Paulo)* [[Picture from Google Glass]](./teaching/20140131_GoogleGlassWorkshop.jpg)  
 
+* Game Development Courses (Alava/Santander)  [[To be completed]]  
 
-// Programming videogames (Alava/Santander)   
-
-// Google glass (Brasil)  
-
-// Repsol  
+* Repsol Tech Business Workshop  [[To be completed]]   
 
 # Complete list of publications
 
