@@ -53,7 +53,6 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2018/11/30) Virtual Reality Developers Roundtable. *Google for Startups Campus* [[Roundtable picture]](./panels/20181130DevFesXR18.jpg)  
 
-* (
 * (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Panel picture]](./panels/20170629_DGT_Panel.jpg) [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
@@ -87,16 +86,14 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2017/07/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg) [[2nd edition Image]](./conferences/20170721_AiLoveU.jpg)  
 
+* (2015/11/03) Tech Advisor at IBM Cloud and 360Fashion Network. *City View Metreon San Francisco* [[Link]](https://www.prweb.com/releases/ibm360fashiontech/award/prweb13055950.htm)  
+
 * (2014/09/30) Mentor at Imagine San Francisco: Mentoring entrepreneurs in emerging technologies.
 [[Imagine official account twitt]](https://twitter.com/imaginecc/status/516914213315678208?s=12)  
 
 * (2014/04/20) NASA Space Apps Challenge 2014 Organizer [[Link]](https://gipuzkoadigital.com/un-proyecto-vasco-en-la-competicion-informatica-mundial-space-apps-challenge/)  
 
 * (2013/04/19) NASA Space Apps Challenge 2013 Organizer [[Link]](https://www.abc.es/ciencia/20130419/abci-space-apps-challenge-madrid-201304191059.html)  
-
-
-
-* // IBM Tech&Moda SF
 
 
 
