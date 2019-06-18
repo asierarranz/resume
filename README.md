@@ -33,52 +33,45 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 **Company description:** Blockchain market leading company, founded by Josep Lubin, co-creator of Ethereum. [[Source]](https://en.wikipedia.org/wiki/ConsenSys)  
 **Address:** 49 Bogart St #22. Brooklyn. 11206 New York (United States)
 **Position:** Developer Program Manager (Contractor)  
-**Detailed description of responsabilities:**  
-* [[To be completed]]  
+**Detailed description of responsabilities:** [[To be completed]]  
 
 ### IE  
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** María de Molina, 31. 28006 Madrid (Spain)  
 **Position:** Head of Technology Lab  
-**Detailed description of responsabilities:**  
-* [[To be completed]]  
+**Detailed description of responsabilities:** [[To be completed]]   
 [[Link]](https://www.ie.edu/university/news-events/news/wow-room-takes-ies-commitment-to-technology-immersion-in-learning-environments-to-the-next-level/)  
 
 ### Onirux Labs
 **Company description:** An innovation studio with clients like Google, Kodak, AXA and Vorwerk Thermomix.
 **Address:** San Vicente, 49. 48902 Barakaldo. (Spain)  
 **Position:** CEO
-**Detailed description of responsabilities:**  
-* [[To be completed]]  
+**Detailed description of responsabilities:** [[To be completed]]    
   
 
 ### Atlanpix
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** Gran Via, 28, 8th. Edificio telefónica. 28013 Madrid (Spain)  
 **Position:** CTO & Co-founder
-**Detailed description of responsabilities:**  
-* [[To be completed]]   
+**Detailed description of responsabilities:** [[To be completed]]      
 
 ### Nebutek Solutions
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** Avenida Universidades, 24. 48014 Bilbao. (Spain) 
 **Position:** Co-founder
-**Detailed description of responsabilities:**  
-* [[To be completed]]  
+**Detailed description of responsabilities:** [[To be completed]]   
 
 ### Futura Networks
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** Av. de Atenas, 10. 28290 Madrid. (Spain)
 **Position:** Research & Development Director
-**Detailed description of responsabilities:**  
-* [[To be completed]]  
+**Detailed description of responsabilities:** [[To be completed]]   
 
 ### Endorasoft
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
 **Position:** Technical Support  
-**Detailed description of responsabilities:**  
-* [[To be completed]]  
+**Detailed description of responsabilities:** [[To be completed]]   
 
 # Professional services  
 *(including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)*  
