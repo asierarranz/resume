@@ -132,11 +132,11 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * (2008/05/27) Nokia Mobile Rules Finalist. *Nokia Headquarters. Espoo. Finland* [[Link]](https://www.xatakamovil.com/futuro/una-visita-a-la-sede-de-nokia)  
 
-// Merck (2013), 
+// Merck (2013),   
 
-// Wayra (2013), 
+// Wayra (2013),   
 
-// Oracle(TadHack 2014),
+// Oracle(TadHack 2014),  
 
 
 # Complete list of intellectual property  
@@ -146,15 +146,15 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 * 
 
-// AskSkynet
-// QiskitUnityAsset
-// Flight Sim VR
-// Into THe Lake
-// Moon Lander Simulator
-// CryptoRadar
-// Google Glass Repo
-// SmartWatch
-// Showcase de proyectos
+// AskSkynet  
+// QiskitUnityAsset  
+// Flight Sim VR  
+// Into THe Lake  
+// Moon Lander Simulator  
+// CryptoRadar  
+// Google Glass Repo  
+// SmartWatch  
+// Showcase de proyectos  
 
 # Complete list of conference/workshop presentations and invited talks  
 
@@ -199,18 +199,21 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 * (2014/01/31) Google Glass Development Workshop. *Campus Brasil (Sao Paulo)* [[Picture from Google Glass]](./teaching/20140131_GoogleGlassWorkshop.jpg)  
 
 
-// Programming videogames (Alava/Santander)  
+// Programming videogames (Alava/Santander)   
 
-// Google glass (Brasil)
+// Google glass (Brasil)  
 
-// Repsol
+// Repsol  
 
 # Complete list of publications
 
 ## Scientific journals
 
-### JMIR: Journal of Medical Internet Research *Impact factor 4.671*
+### JMIR: Journal of Medical Internet Research *[Impact factor 4.671]*
 * (2012/11/29) Crowdsourcing Malaria Parasite Quantification: An Online Game for Analyzing Images of Infected Thick Blood Smears. *J Med Internet Res. 2012;14(6):e167.* [[Link]](https://www.jmir.org/2012/6/e167/)  
+
+#### Citations:  
+*
 
 
 ## Featured articles and magazines [By topic]
@@ -237,8 +240,5 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks
 
 # Others:
 
-## WebVR Portfolio
-
-### A WebGL based portfolio
-[[Link]](https://asierarranz.com/webvr/)
+* WebVR Portfolio. A WebGL based portfolio. [[Link]](https://asierarranz.com/webvr/)
 
