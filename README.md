@@ -248,6 +248,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2013/09/05) How to create a tech laboratory. *Campus London*  [[Conference picture]](./conferences/20130905_CPLondon.jpg)
 
+* [[To be completed]] TLPs
+
+
 ## Workshops
 
 * (2017/03/17) Exponential Technologies (20 hours). *Cantabria Government.* [[Image]](./teaching/20170317_ExponentialTechnologies.jpg) [[Video Interview]](https://www.youtube.com/watch?v=TCM5iKrLG1w)    
