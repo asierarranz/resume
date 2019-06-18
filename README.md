@@ -1,5 +1,5 @@
 # Research interests
-Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Robotics, Astronomy
+Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Robotics, IoT
 
 # Education
 * Telecommunications Engineering at University of Deusto  
