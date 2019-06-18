@@ -80,25 +80,34 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 **Detailed description of responsabilities:** [[To be completed]]      
 - - -
 ### Nebutek Solutions
-*Full-time (own company) with hired employees (Sept 2010 - Dec 2015)*
+*Full-time (own company) with hired employees (Sept 2009 - Dec 2015)*
 **Company description:** The first spin-of of the University of Deusto. Research and technology projects.  
 **Address:** Avenida Universidades, 24. 48014 Bilbao. (Spain) 
 **Position:** Co-founder with my university.
 **Detailed description of responsabilities:** [[To be completed]]   
 
 - - -
-### Endorasoft
-*Full-time
-**Company description:** Smartphone hardware fixing and hardware carrier unlocking authorized company.  
-**Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
-**Position:** Technical Support  
-**Detailed description of responsabilities:** [[To be completed]]   
-- - -
-### Telefónica R&D
+### University of Deusto SmartLab
+*Internship Part-time (Jan 2009 - Sep 2009)*
 **Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
 **Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
 **Position:** Technical Support  
 **Detailed description of responsabilities:** [[To be completed]]   
+- - -
+### Telefónica R&D
+*Internship Part-time (Oct. 2008 - Oct. 2009)*
+**Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
+**Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
+**Position:** Technical Support  
+**Detailed description of responsabilities:** [[To be completed]]   
+- - -
+### Endorasoft
+*Full-time (Sep. 2006 - May. 2007)*
+**Company description:** Smartphone hardware fixing and hardware carrier unlocking authorized company.  
+**Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
+**Position:** Technical Support  
+**Detailed description of responsabilities:** [[To be completed]]   
+
 
 # Professional services  *[Panels, reviewer, organizer]*  
 
