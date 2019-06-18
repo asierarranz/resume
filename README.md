@@ -42,14 +42,14 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 
 ### CONSENSYS  
-*Full-time Contractor (Apr 2018 – June 2018)*  
+*Full-time Contractor (Apr 2018 – June 2018)*   
 **Company description:** Blockchain market leading company, founded by Josep Lubin, co-creator of Ethereum. [[Source]](https://en.wikipedia.org/wiki/ConsenSys)  
 **Address:** 49 Bogart St #22. Brooklyn. 11206 New York (United States)
 **Position:** Developer Program Manager (Contractor)  
 **Detailed description of responsabilities:** [[To be completed]]  
 - - -
 ### IE BUSINESS SCHOOL  
-*Full-time employee (Feb 2016 – Apr 2018)* 
+*Full-time employee (Feb 2016 – Apr 2018)*   
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** María de Molina, 31. 28006 Madrid (Spain)  
 **Position:** Head of Technology Lab  
@@ -57,7 +57,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 [[Link]](https://www.ie.edu/university/news-events/news/wow-room-takes-ies-commitment-to-technology-immersion-in-learning-environments-to-the-next-level/)  
 - - -
 ### Onirux Labs
-*Full-time (own company) with hired employees (Dec 2015 - Dec 2018)*
+*Full-time (own company) with hired employees (Dec 2015 - Dec 2018)*  
 **Company description:** An innovation studio with clients like Google, Kodak, AXA and Vorwerk Thermomix.
 **Address:** San Vicente, 49. 48902 Barakaldo. (Spain)  
 **Position:** CEO
@@ -65,7 +65,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 - - -
 ### Futura Networks
-*Full-time (Dec 2013 - May 2014)*
+*Full-time (Dec 2013 - May 2014)*  
 **Company description:** Technological events for tech communities.  
 **Address:** Av. de Atenas, 10. 28290 Madrid. (Spain)
 **Position:** Research & Development Director
@@ -73,7 +73,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 - - -
 ### Atlanpix
-*Full-time (Sep 2012 – May 2013)*
+*Full-time (Sep 2012 – May 2013)*  
 **Company description:** Startup invested by Wayra, the Venture Capital firm from Telefónica.  
 **Address:** Gran Via, 28, 8th. Edificio telefónica. 28013 Madrid (Spain)  
 **Position:** CTO & Co-founder
@@ -88,21 +88,21 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 - - -
 ### University of Deusto SmartLab
-*Internship Part-time (Jan 2009 - Sep 2009)*
+*Internship Part-time (Jan 2009 - Sep 2009)*  
 **Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
 **Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
 **Position:** Technical Support  
 **Detailed description of responsabilities:** [[To be completed]]   
 - - -
 ### Telefónica R&D
-*Internship Part-time (Oct. 2008 - Oct. 2009)*
+*Internship Part-time (Oct. 2008 - Oct. 2009)*  
 **Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
 **Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
 **Position:** Technical Support  
 **Detailed description of responsabilities:** [[To be completed]]   
 - - -
 ### Endorasoft
-*Full-time (Sep. 2006 - May. 2007)*
+*Full-time (Sep. 2006 - May. 2007)*  
 **Company description:** Smartphone hardware fixing and hardware carrier unlocking authorized company.  
 **Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
 **Position:** Technical Support  
