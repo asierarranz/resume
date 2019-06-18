@@ -34,7 +34,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 ### FACEBOOK (Oculus division) 
 *Fellowship (Oculus Acceleration Program) (June 2018 - Dec 2018)*  
-**Company description:** American technology company specialized in virtual reality hardware and software products. Acquired by Facebook in 2014. Now is a part of Facebook Technologies, LLC. 
+**Company description:** American technology company specialized in virtual reality hardware and software products. Acquired by Facebook in 2014. Now is a part of Facebook Technologies, LLC.  
 **Address:** 1601 Willow Rd. 94025 Menlo Park. California (United States)  
 **Position:** Fellowship as part of their acceleration program.   
 **Detailed description of responsabilities:** [[To be completed]]  
