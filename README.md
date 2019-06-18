@@ -66,38 +66,37 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 - - -
 ### Atlanpix
 *Full-time (Sep 2012 – May 2013)*
-**Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
+**Company description:** Startup invested by Wayra, the Venture Capital firm from Telefónica.  
 **Address:** Gran Via, 28, 8th. Edificio telefónica. 28013 Madrid (Spain)  
 **Position:** CTO & Co-founder
 **Detailed description of responsabilities:** [[To be completed]]      
 - - -
 ### Nebutek Solutions
 *Full-time (Sept 2010 - Dec 2015)*
-**Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
+**Company description:** The first spin-of of the University of Deusto. Research and technology projects.  
 **Address:** Avenida Universidades, 24. 48014 Bilbao. (Spain) 
-**Position:** Co-founder
+**Position:** Co-founder with my university.
 **Detailed description of responsabilities:** [[To be completed]]   
 - - -
 ### Futura Networks
-**Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
+**Company description:** Technological events for tech communities.  
 **Address:** Av. de Atenas, 10. 28290 Madrid. (Spain)
 **Position:** Research & Development Director
 **Detailed description of responsabilities:** [[To be completed]]   
 - - -
 ### Endorasoft
-**Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
+**Company description:** Smartphone hardware fixing and hardware carrier unlocking authorized company.  
 **Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
 **Position:** Technical Support  
 **Detailed description of responsabilities:** [[To be completed]]   
 - - -
 ### Telefónica R&D
-**Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
-**Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
+**Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
+**Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
 **Position:** Technical Support  
 **Detailed description of responsabilities:** [[To be completed]]   
 
-# Professional services  
-*(including participation on a panel, or individually, as a reviewer of the work of others and reviewing and organizing activities)*  
+# Professional services  *[Panels, reviewer, organizer]*  
 
 ## Panels  
 
