@@ -4,7 +4,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 # Education
 * Telecommunications Engineering at University of Deusto  
 * Dissertation: A. Arranz, D. Iglesias, A. Moreno, T. Oraa (2016) *Data analysis and telemetry applied to motorized vehicles*  
-* Honored, [[**Proud Alumni**]](http://proud.deusto.es/alumni), as one of the 44 historically featured students based on their careers.
+* Honored, ProUD Alumni, as one of the 44 historically featured students based on their careers. [[**Link**]](http://proud.deusto.es/alumni)
 * Selected to represent my generation of students in the roundtable of the 40th anniversary of the faculty of engineering. [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](./panels/20170409_Deusto_ESIDE2.jpg)  
 
 # Academy
