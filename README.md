@@ -57,12 +57,20 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 [[Link]](https://www.ie.edu/university/news-events/news/wow-room-takes-ies-commitment-to-technology-immersion-in-learning-environments-to-the-next-level/)  
 - - -
 ### Onirux Labs
-*Full-time (Dec 2015 - Dec 2018)*
+*Full-time (own company) with hired employees (Dec 2015 - Dec 2018)*
 **Company description:** An innovation studio with clients like Google, Kodak, AXA and Vorwerk Thermomix.
 **Address:** San Vicente, 49. 48902 Barakaldo. (Spain)  
 **Position:** CEO
-**Detailed description of responsabilities:** [[To be completed]]    
-  
+**Detailed description of responsabilities:** [[To be completed]]   
+
+- - -
+### Futura Networks
+*Full-time (Dec 2013 - May 2014)*
+**Company description:** Technological events for tech communities.  
+**Address:** Av. de Atenas, 10. 28290 Madrid. (Spain)
+**Position:** Research & Development Director
+**Detailed description of responsabilities:** [[To be completed]]   
+
 - - -
 ### Atlanpix
 *Full-time (Sep 2012 – May 2013)*
@@ -72,19 +80,15 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 **Detailed description of responsabilities:** [[To be completed]]      
 - - -
 ### Nebutek Solutions
-*Full-time (Sept 2010 - Dec 2015)*
+*Full-time (own company) with hired employees (Sept 2010 - Dec 2015)*
 **Company description:** The first spin-of of the University of Deusto. Research and technology projects.  
 **Address:** Avenida Universidades, 24. 48014 Bilbao. (Spain) 
 **Position:** Co-founder with my university.
 **Detailed description of responsabilities:** [[To be completed]]   
-- - -
-### Futura Networks
-**Company description:** Technological events for tech communities.  
-**Address:** Av. de Atenas, 10. 28290 Madrid. (Spain)
-**Position:** Research & Development Director
-**Detailed description of responsabilities:** [[To be completed]]   
+
 - - -
 ### Endorasoft
+*Full-time
 **Company description:** Smartphone hardware fixing and hardware carrier unlocking authorized company.  
 **Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
 **Position:** Technical Support  
@@ -117,6 +121,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg)   
 
+* (2013/07/16) Summer courses. *University of Cantabria* [[Image]](./panels/20130716_Panel_UniversidadCantabria.jpg)
 
 
 
