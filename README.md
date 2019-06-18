@@ -180,6 +180,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2008/05/27) Nokia Mobile Rules Finalist. *Nokia Headquarters. Espoo. Finland* [[Link]](https://www.xatakamovil.com/futuro/una-visita-a-la-sede-de-nokia)  
 
+* (2014/06/07) Winner at TAD Hack *Oracle*  [[Picture]](./prices/20140607_TADhack.jpg)
+
 * Merck (2013)  [[To be completed]]  
 
 * Wayra (2013)  [[To be completed]]     
@@ -244,6 +246,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 * (2014/01/31) Google Glass Development Workshop. *Campus Brasil (Sao Paulo)* [[Picture from Google Glass]](./teaching/20140131_GoogleGlassWorkshop.jpg)  
 
 * Game Development Courses (Alava/Santander)  [[To be completed]]  
+
+* (2013/07/26) Game Development Workshop. *Euskal Encounter* [[Picture]](./teaching/20130726_GameDevelopment.jpg)
 
 * Repsol Tech Business Workshop  [[To be completed]]   
 
