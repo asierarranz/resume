@@ -48,7 +48,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 **Position:** Developer Program Manager (Contractor)  
 **Detailed description of responsabilities:** [[To be completed]]  
 - - -
-### IE  
+### IE BUSINESS SCHOOL  
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** María de Molina, 31. 28006 Madrid (Spain)  
 **Position:** Head of Technology Lab  
