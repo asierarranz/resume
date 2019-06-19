@@ -1,5 +1,5 @@
 # Research interests
-Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Robotics, IoT
+Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Robotics, IoT.
 
 # Education
 * Telecommunications Engineering at University of Deusto  
@@ -163,9 +163,9 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2019/03/01) Winner at Qiskit Camp. Quantum Computing Hackathon by IBM.  [[Link]](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179) 
 
-* (2017/06/24) Honored by the Spanish Air Force due to the recordings of some of their maneouvers with the Boeing EF-18 for Virtual Reality. [[Image]](./prizes/20170624_AirForce2.jpg) [[Image]](./prizes/20170624_AirForce1.jpg)  
-
 * (2018/06/21) Global Top Writter. *Medium* [[Image]](./prices/20180621_TopWriter.jpg)  
+
+* (2017/06/24) Honored by the Spanish Air Force due to the recordings of some of their maneouvers with the Boeing EF-18 for Virtual Reality. [[Image]](./prizes/20170624_AirForce2.jpg) [[Image]](./prizes/20170624_AirForce1.jpg)  
 
 * (2016/03/01) First Wave Developer. *Microsoft Hololens* [[Image]](./prizes/20160301_Hololens.jpg) [[Video Review]](https://www.youtube.com/watch?v=9J6z4arQSGE)  
 
@@ -177,25 +177,25 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
-* (2012/03/02) Moile World Congress Green Hackathon Winner. *Telefonica.* [[Link]](https://www.telefonica.com/en/web/public-policy/blog/article/-/blogs/asier-arranz-wins-the-1st-telefonica-and-itu-green-ict-hackathon-for-his-bicing-gamification-application)
+* (2014/06/07) Winner at TAD Hack *Oracle*  [[Picture]](./prices/20140607_TADhack.jpg)  
+
+* (2013) Biotech Winner. *Merck Pharma* [[To be completed]]  
+
+* (2012/07/03) Wayra Winner. *Telefónica* [[Picture]](./prizes/20120703_Wayra_Prize.jpg)  
+
+
+* (2012/03/02) Moile World Congress Green Hackathon Winner. *Telefonica.* [[Link]](https://www.telefonica.com/en/web/public-policy/blog/article/-/blogs/asier-arranz-wins-the-1st-telefonica-and-itu-green-ict-hackathon-for-his-bicing-gamification-application)  
 
 * (2011/10/15) Double Winner Campus Milenio [[Image]](./prizes/20111015_CampusMilenio.jpg) [[Link]](https://www.fayerwayer.com/2011/10/cpmilenio-los-proyectos-ganadores-del-campus-party-milenio/)  
 
 * (2010/04/10) Innovation Winner. *Campus Europa 2010.* [[Link]](https://www.laverdad.es/murcia/v/20100417/cultura/movil-vigia-protesis-entre-20100417.html)  
 
-* (2009/11/07) Finalist Google Developer Challenge with Nebudroid. [[Link]](https://www.htcmania.com/showthread.php?t=76762) [[Link]](https://elandroideimportacion.wordpress.com/2009/09/01/nebudroid-el-puente-interactivo/) 
+* (2009/11/07) Finalist Google Developer Challenge with Nebudroid. [[Link]](https://www.htcmania.com/showthread.php?t=76762) [[Link]](https://elandroideimportacion.wordpress.com/2009/09/01/nebudroid-el-puente-interactivo/)  
 
 * (2009/05/20) 1st Prize Open Mobile Forum. *Telefónica.* [[Link]](http://altweb20.blogspot.com/2009/05/open-movilforum-pynoki.html)  
 
 * (2008/05/27) Nokia Mobile Rules Finalist. *Nokia Headquarters. Espoo. Finland* [[Link]](https://www.xatakamovil.com/futuro/una-visita-a-la-sede-de-nokia)  
 
-* (2014/06/07) Winner at TAD Hack *Oracle*  [[Picture]](./prices/20140607_TADhack.jpg)
-
-* Merck (2013)  [[To be completed]]  
-
-* Wayra (2013)  [[To be completed]]     
-
-* Oracle(TadHack 2014)  [[To be completed]]   
 
 
 # Complete list of intellectual property  
