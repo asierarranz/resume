@@ -85,7 +85,10 @@ Selected by Facebook for a Virtual Reality fellowship to develop a project with 
 **Company description:** Technological events for tech communities.  
 **Address:** Av. de Atenas, 10. 28290 Madrid. (Spain)
 **Position:** Research & Development Director
-**Detailed description of responsibilities:** [[To be completed]]   
+**Detailed description of responsibilities:**  
+* Manage the community of more than 30.000 developers around the world
+* Attend to the events in Sao Paulo, Quito, London and Medellín to run innovative workshops and showcase new technologies
+* Create a developer team to develop the main website for the events registration  
 
 - - -
 ### Atlanpix
@@ -93,14 +96,19 @@ Selected by Facebook for a Virtual Reality fellowship to develop a project with 
 **Company description:** Startup invested by Wayra, the Venture Capital firm from Telefónica.  
 **Address:** Gran Via, 28, 8th. Edificio telefónica. 28013 Madrid (Spain)  
 **Position:** CTO & Co-founder
-**Detailed description of responsibilities:** [[To be completed]]      
+**Detailed description of responsibilities:**  
+* Develop a mobile app to connect people throught common interests  
+* Manage the venture capital relation with Wayra, the accelerator that funded the company  
 - - -
 ### Nebutek Solutions
 *Full-time (own company) with hired employees (Sept 2009 - Dec 2015)*
 **Company description:** The first spin-of of the University of Deusto. Research and technology projects.  
 **Address:** Avenida Universidades, 24. 48014 Bilbao. (Spain) 
 **Position:** Co-founder with my university.
-**Detailed description of responsibilities:** [[To be completed]]   
+**Detailed description of responsibilities:**  
+* Fund and launch the first spin-of from the University of Deusto, having the University as co-founder (12% of the company)
+* Research on IoT products
+* Collaborate with partners on innovation projects
 
 - - -
 ### University of Deusto SmartLab
@@ -108,21 +116,29 @@ Selected by Facebook for a Virtual Reality fellowship to develop a project with 
 **Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
 **Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
 **Position:** Technical Support  
-**Detailed description of responsibilities:** [[To be completed]]   
+**Detailed description of responsibilities:**  
+* Develop a system to detect falls in elderdy people
+* Implement the project in Java OSGi  
+
 - - -
 ### Telefónica R&D
 *Internship Part-time (Oct. 2008 - Oct. 2009)*  
 **Company description:** The Research and Development division of Telefónica. I was working on the robotics division.
 **Address:** Torre Telefónica Diagonal 00. Plaça d'Ernest Lluch i Martin 5. 08019 Barcelona (Spain)
 **Position:** Technical Support  
-**Detailed description of responsibilities:** [[To be completed]]   
+**Detailed description of responsibilities:**  
+* Develop a system to request a robot that can guide you in an open place by using automatic enviroment navigation
+* Implement the mobile app to request the robot
+* Launch a proof of concept of the app in the Nokia N95 (Symbian)  
 - - -
 ### Endorasoft
 *Full-time (Sep. 2006 - May. 2007)*  
 **Company description:** Smartphone hardware fixing and hardware carrier unlocking authorized company.  
 **Address:** Blas de Otero, 3. 48014 Bilbao (Spain)
 **Position:** Technical Support  
-**Detailed description of responsibilities:** [[To be completed]]   
+**Detailed description of responsibilities:**  
+* Repair hardware issues in smartphones  
+* Authorized unlock of smartphones by modifying their hardware  
 
 
 # Professional services   
