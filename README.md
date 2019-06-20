@@ -37,8 +37,10 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 **Company description:** American technology company specialized in virtual reality hardware and software products. Acquired by Facebook in 2014. Now is a part of Facebook Technologies, LLC.  
 **Address:** 1601 Willow Rd. 94025 Menlo Park. California (United States)  
 **Position:** Fellowship as part of their acceleration program.   
-**Detailed description of responsibilities:**   
-Selected by Facebook for a Virtual Reality fellowship to develop a project with Oculus for 6 months, with classes at Oculus headquarters in Menlo Park. The game was published in an internal ecosystem, the project was made using Unity and code has been open sourced and is available on Bitbucket.  
+**Detailed description of responsibilities:**    
+* Develop a project with Oculus for 6 months during a virtual reality fellowship offered by Facebook  
+* Create a meaningful project with Unity for Oculus Go  
+* Publish the project into an internal ecosystem  
 - - -
 
 
