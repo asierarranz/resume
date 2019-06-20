@@ -37,7 +37,8 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 **Company description:** American technology company specialized in virtual reality hardware and software products. Acquired by Facebook in 2014. Now is a part of Facebook Technologies, LLC.  
 **Address:** 1601 Willow Rd. 94025 Menlo Park. California (United States)  
 **Position:** Fellowship as part of their acceleration program.   
-**Detailed description of responsabilities:** [[To be completed]]  
+**Detailed description of responsabilities:**  
+Selected by Facebook for a Virtual Reality fellowship to develop a project with Oculus during 6 months, with presential classes in the Oculus headquarters in Menlo Park. The game was published in an internal ecosystem, the project was made using Unity and code has been open sourced and is available on Bitbucket.
 - - -
 
 
@@ -46,22 +47,37 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 **Company description:** Blockchain market leading company, founded by Josep Lubin, co-creator of Ethereum. [[Source]](https://en.wikipedia.org/wiki/ConsenSys)  
 **Address:** 49 Bogart St #22. Brooklyn. 11206 New York (United States)
 **Position:** Developer Program Manager (Contractor)  
-**Detailed description of responsabilities:** [[To be completed]]  
+**Detailed description of responsabilities:**  
+* Create blockchain tutorials for the community based on Ethereum blockchain  
+* Train the teachers that will use these exercises to teach business around the world, mainly in Singapur and Zurich.  
+- - -
+### IE BUSINESS SCHOOL  
+*Associate professor (Feb 2016 – mar 2019)*   
+**Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
+**Address:** María de Molina, 31. 28006 Madrid (Spain)  
+**Position:** Associate Professor  
+**Detailed description of responsabilities:**  
+* Professor of the International MBA in the module "Tech-Primer for Non-Tech Creators"  
+* Professor of the International MBA in the module "The Social Media Interface"  
 - - -
 ### IE BUSINESS SCHOOL  
 *Full-time employee (Feb 2016 – Apr 2018)*   
 **Company description:** Business School ranked #3 in Forbes and #1 in Financial Times.  
 **Address:** María de Molina, 31. 28006 Madrid (Spain)  
 **Position:** Head of Technology Lab  
-**Detailed description of responsabilities:** [[To be completed]]   
-[[Link]](https://www.ie.edu/university/news-events/news/wow-room-takes-ies-commitment-to-technology-immersion-in-learning-environments-to-the-next-level/)  
+**Detailed description of responsabilities:**  
+* Create a lab to experiment with new technologies
+* Launch new products from the lab to position the business school as one of the most innovatives in the world
+* Launched "The WOWroom", an interactive semi-spherical room to teach up to 60 students in a very immersive way. [Article]](https://www.ie.edu/university/news-events/news/wow-room-takes-ies-commitment-to-technology-immersion-in-learning-environments-to-the-next-level/)  
 - - -
 ### Onirux Labs
 *Full-time (own company) with hired employees (Dec 2015 - Dec 2018)*  
 **Company description:** An innovation studio with clients like Google, Kodak, AXA and Vorwerk Thermomix.
 **Address:** San Vicente, 49. 48902 Barakaldo. (Spain)  
 **Position:** CEO
-**Detailed description of responsabilities:** [[To be completed]]   
+**Detailed description of responsabilities:**  
+* Founding and creating a sustainable creative studio with medium-big corporate clients
+* Innovating in new areas, like Virtual Reality and Augmented Reality  
 
 - - -
 ### Futura Networks
@@ -115,23 +131,21 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2018/11/30) Virtual Reality Developers Roundtable. *Google for Startups Campus* [[Roundtable picture]](./panels/20181130DevFesXR18.jpg)  
 
+* (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg)   
+
 * (2017/06/28) *XXV Forum of automotion: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Panel picture]](./panels/20170629_DGT_Panel.jpg) [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 
 * (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 
 * (2017/04/09) Engineering Faculty 40th anniversary. *University of Deusto* [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](https://agenda.deusto.es/celebracion-del-40-aniversario-de-la-facultad-de-ingenieria/) [[Announcement]](./panels/20170409_Deusto_ESIDE2.jpg)  
 
-* (2016/10/06) Blockchain Panel. *South Summit* [[Panel picture]](./panels/20161006_SouthSummit.jpg) [[Image]](https://twitter.com/cvivasa/status/916237413470613504)  
+* (2016/12/05) Panel moderator: Spain VR Startups. *Google for Startups.*  [[Panel picture]](./panels/20161205_VRsummit.jpg)
 
+* (2016/10/06) Blockchain Panel. *South Summit* [[Panel picture]](./panels/20161006_SouthSummit.jpg) [[Image]](https://twitter.com/cvivasa/status/916237413470613504)  
 
 * (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
 
-* (2016/12/05) Panel moderator: Spain VR Startups. *Google for Startups.*  [[Panel picture]](./panels/20161205_VRsummit.jpg)
-
-* (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg)   
-
 * (2013/07/16) Summer courses. *University of Cantabria* [[Image]](./panels/20130716_Panel_UniversidadCantabria.jpg)
-
 
 
 ## Reviewer  
@@ -216,15 +230,15 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 ## Conferences
 
-* (2019/04/25) Main Stage Speaker. *TalentLand 2019* [[Image]](./conferences/20190425_TalentLand0.jpg) [[Image]](./conferences/20190425_TalentLand1.jpg) [[Image]](./conferences/20190425_TalentLand2.jpg)  
-
 * (2019/05/28) Artificial Intelligence with Unity. *Google for Startups Campus* [[Image]](./conferences/20190528_AIGoogle.jpg) [[Video]](https://twitter.com/frenopatico/status/1111339613929517057)   
 
 * (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](./conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
 
+* (2019/04/25) Main Stage Speaker. *TalentLand 2019* [[Image]](./conferences/20190425_TalentLand0.jpg) [[Image]](./conferences/20190425_TalentLand1.jpg) [[Image]](./conferences/20190425_TalentLand2.jpg)  
+
 * (2018/11/30) How to make a VR game in a lunar phase. *Google for Startups Campus* [[Announcement]](https://twitter.com/asierarranz/status/1067763201838845952) [[Conference picture]](./conferences/20181130_Google_Games.jpg) 
 
-* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg)  
+
 
 * (2017/05/27) Artificial Intelligence. *AI Love U: Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg)
 
@@ -234,13 +248,15 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
 
+* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg) 
+
 * (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Conference picture]](./conferences/20160506_UXSpain.jpg)  [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
 * (2016/02/19) Startups in the insurtech market. *AXA.* [[Link]](https://www.elreferente.es/innovadores/azxa-presenta-opensurance-29363)
 
-* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)  
-
 * (2015/07/05) Emerging Technologies. *TEDx Cibeles* [[Image]](./conferences/20150705_TEDxCibeles.jpg)
+
+* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)  
 
 * (2014/10/05) Emerging Technologies. *Campus Ecuador (Quito)* [[Conference picture]](./conferences/20141005_CPQuito.jpg)  
 
@@ -278,6 +294,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 ### Artificial Intelligence
 * (2018/04/01) *How I used a chatbot with my students.* Chatbotslife.com [[Link]](https://chatbotslife.com/how-i-used-a-chatbot-with-my-students-952a4979c3dc)  
+
 * (2018/03/21) *Your data will pay the universal basic income.* Chatbotslife.com [[Link]](https://medium.com/@asierarranz/your-data-will-pay-the-universal-basic-income-d24fe5a4d799)  
 
 ### Blockchain
