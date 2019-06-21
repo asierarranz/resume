@@ -231,7 +231,6 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 
 # Complete list of intellectual property  
-*(including patents, licensed technology, etc., and website links)*  
 
 * 3D printed support to connect a pair of 220FOV cameras, to achieve a full 360 camera with stitching. [[Design]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_design.jpg) [[Cameras]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_cameras.jpg) [[Installation on aircraft]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_installation.jpg) [[Robot stereoscopic concept]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_robot.jpg)  
 
