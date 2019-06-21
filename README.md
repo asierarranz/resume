@@ -5,14 +5,14 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 * Telecommunications Engineering at University of Deusto  
 * Dissertation: A. Arranz, D. Iglesias, A. Moreno, T. Oraa (2016) *Data analysis and telemetry applied to motorized vehicles*  
 * Honored, ProUD Alumni, as one of the 44 historically featured students based on their careers. [[**Link**]](http://proud.deusto.es/alumni)
-* Represented my generation of students in the roundtable of the 40th anniversary of the faculty of engineering. [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](./panels/20170409_Deusto_ESIDE2.jpg)  
+* Represented my generation of students in the roundtable of the 40th anniversary of the faculty of engineering. [[Panel picture]](https://www.asierarranz.com/cv/panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](https://www.asierarranz.com/cv/panels/20170409_Deusto_ESIDE2.jpg)  
 
 # Academy
 
 * International MBA professor at IE Business School (BS Ranked #3 in Forbes) (2016-2019)  
-* Recognition of teacher excellence (2017-2018) [[Image]](./prizes/IE_Business.jpg)  
-* (2018/06/21) Business Recognition Award. *Reimagine Education Awards* [[Image]](./prizes/20180621_Business_Recognition_Award.jpg)  
-* (2017/10/29) Asier Arranz. The IE Experience. *IE Business School Magazine* [[Magazine scan]](./publications/20171029_IdeasMagazine.jpg)
+* Recognition of teacher excellence (2017-2018) [[Image]](https://www.asierarranz.com/cv/prizes/IE_Business.jpg)  
+* (2018/06/21) Business Recognition Award. *Reimagine Education Awards* [[Image]](https://www.asierarranz.com/cv/prizes/20180621_Business_Recognition_Award.jpg)  
+* (2017/10/29) Asier Arranz. The IE Experience. *IE Business School Magazine* [[Magazine scan]](https://www.asierarranz.com/cv/publications/20171029_IdeasMagazine.jpg)
 
 # Employment history  
 
@@ -147,23 +147,23 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 ## Panels  
 
-* (2018/11/30) Virtual Reality Developers Roundtable. *Google for Startups Campus* [[Roundtable picture]](./panels/20181130DevFesXR18.jpg)  
+* (2018/11/30) Virtual Reality Developers Roundtable. *Google for Startups Campus* [[Roundtable picture]](https://www.asierarranz.com/cv/panels/20181130DevFesXR18.jpg)  
 
-* (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](./panels/20171127_DELL_EMC.jpg)   
+* (2017/11/27) Virtual Reality Panel and Microsoft Hololens demonstration. *DELL EMC* [[Image]](https://www.asierarranz.com/cv/panels/20171127_DELL_EMC.jpg)   
 
-* (2017/06/28) *XXV Automotive Forum: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Panel picture]](./panels/20170629_DGT_Panel.jpg) [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
+* (2017/06/28) *XXV Automotive Forum: Smart mobility as the key for the future of the sector*. Madrid Townhall, Department of Transportation. [[Panel picture]](https://www.asierarranz.com/cv/panels/20170629_DGT_Panel.jpg) [[Link]](https://twitter.com/asierarranz/status/879963020574806017?s=12)  
 
-* (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](./panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
+* (2017/05/05) Innovation working with startups. *BIND 4.0: Industry 4.0 panel moderation:* [[Image]](https://www.asierarranz.com/cv/panels/20170505_BIND40.jpg) [[Link]](https://twitter.com/grupospri/status/860458055867281409?s=12)  
 
-* (2017/04/09) Engineering Faculty 40th anniversary. *University of Deusto* [[Panel picture]](./panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](https://agenda.deusto.es/celebracion-del-40-aniversario-de-la-facultad-de-ingenieria/) [[Announcement]](./panels/20170409_Deusto_ESIDE2.jpg)  
+* (2017/04/09) Engineering Faculty 40th anniversary. *University of Deusto* [[Panel picture]](https://www.asierarranz.com/cv/panels/20170409_Deusto_ESIDE.jpg) [[Announcement]](https://agenda.deusto.es/celebracion-del-40-aniversario-de-la-facultad-de-ingenieria/) [[Announcement]](https://www.asierarranz.com/cv/panels/20170409_Deusto_ESIDE2.jpg)  
 
-* (2016/12/05) Panel moderator: Spain VR Startups. *Google for Startups.*  [[Panel picture]](./panels/20161205_VRsummit.jpg)  
+* (2016/12/05) Panel moderator: Spain VR Startups. *Google for Startups.*  [[Panel picture]](https://www.asierarranz.com/cv/panels/20161205_VRsummit.jpg)  
 
-* (2016/10/06) Blockchain Panel. *South Summit* [[Panel picture]](./panels/20161006_SouthSummit.jpg) [[Image]](https://twitter.com/cvivasa/status/916237413470613504)  
+* (2016/10/06) Blockchain Panel. *South Summit* [[Panel picture]](https://www.asierarranz.com/cv/panels/20161006_SouthSummit.jpg) [[Image]](https://twitter.com/cvivasa/status/916237413470613504)  
 
-* (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](./panels/20160901_GoogleCampus.jpg)  
+* (2016/09/01) Opportunities for startups in the Industry 4.0 *Industry 4.0 panel moderation* [Google for Startups Spain] [[Link]](https://twitter.com/googlestartupes/status/770206862369234944?s=12) [[Image]](https://www.asierarranz.com/cv/panels/20160901_GoogleCampus.jpg)  
 
-* (2013/07/16) Summer courses. *University of Cantabria* [[Image]](./panels/20130716_Panel_UniversidadCantabria.jpg)  
+* (2013/07/16) Summer courses. *University of Cantabria* [[Image]](https://www.asierarranz.com/cv/panels/20130716_Panel_UniversidadCantabria.jpg)  
 
 
 ## Reviewer  
@@ -179,7 +179,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 ## Organizer
 
 
-* (2017/07/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg) [[2nd edition Image]](./conferences/20170721_AiLoveU.jpg)  
+* (2017/07/27) AI Love U Organizer. *Artificial Intelligence Event* [[1st edition Image]](https://www.asierarranz.com/cv/conferences/20170527_AI_love_U_Vol1.jpg) [[2nd edition Image]](https://www.asierarranz.com/cv/conferences/20170721_AiLoveU.jpg)  
 
 * (2015/11/03) Tech Advisor at IBM Cloud and 360Fashion Network. *City View Metreon San Francisco* [[Link]](https://www.prweb.com/releases/ibm360fashiontech/award/prweb13055950.htm)  
 
@@ -195,30 +195,30 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 * (2019/03/01) Winner at Qiskit Camp. Quantum Computing Hackathon by IBM.  [[Link]](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)  
 
-* (2018/06/21) Global Top Writter. *Medium* [[Image]](./prices/20180621_TopWriter.jpg)  
+* (2018/06/21) Global Top Writter. *Medium* [[Image]](https://www.asierarranz.com/cv/prices/20180621_TopWriter.jpg)  
 
-* (2017/06/24) Honored by the Spanish Air Force due to the recordings of some of their maneuvers with the Boeing EF-18 for Virtual Reality. [[Image]](./prizes/20170624_AirForce2.jpg) [[Image]](./prizes/20170624_AirForce1.jpg)  
+* (2017/06/24) Honored by the Spanish Air Force due to the recordings of some of their maneuvers with the Boeing EF-18 for Virtual Reality. [[Image]](https://www.asierarranz.com/cv/prizes/20170624_AirForce2.jpg) [[Image]](https://www.asierarranz.com/cv/prizes/20170624_AirForce1.jpg)  
 
-* (2016/03/01) First Wave Developer. *Microsoft Hololens* [[Image]](./prizes/20160301_Hololens.jpg) [[Video Review]](https://www.youtube.com/watch?v=9J6z4arQSGE)  
+* (2016/03/01) First Wave Developer. *Microsoft Hololens* [[Image]](https://www.asierarranz.com/cv/prizes/20160301_Hololens.jpg) [[Video Review]](https://www.youtube.com/watch?v=9J6z4arQSGE)  
 
 * (2015/09/21) Winner at Techcrunch Disrupt. *1st place Ricoh Prize. 2nd place Qualcomm Prize. 1st Place Dolby Price. [[Link]](https://developer.qualcomm.com/blog/dom/developer-month-asier-arranz-brings-winning-ways-2015-techcrunch-disrupt-hackathon)  
 
-* (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  [[Article in the newspaper]](./prizes/20141130_ElMundo.jpg)  
+* (2014/12/02) Winner at El Mundo Newspaper Hackathon. *A 15K€ prize to create the best app for the digital transformation of the newspaper*  [[Article in the newspaper]](https://www.asierarranz.com/cv/prizes/20141130_ElMundo.jpg)  
 
 * (2014/11/27) Finalist Intel Real Sense Developer Challenge. [[Link]](https://twitter.com/asierarranz/status/538075981379280896?s=12)  
 
 * (2014/05/30) Winner Google-BBVA InnovaApps+. *Prize by BBVA in collaboration with Google, for a project made for the Google Glass.* [[Link]](https://bbvaopen4u.com/es/actualidad/entrevista-asier-arranz-creador-de-myofficeglass-y-ganador-innovapps)  
 
-* (2014/06/07) Winner at TAD Hack *Oracle*  [[Picture]](./prices/20140607_TADhack.jpg)  
+* (2014/06/07) Winner at TAD Hack *Oracle*  [[Picture]](https://www.asierarranz.com/cv/prices/20140607_TADhack.jpg)  
 
-* (2013) Biotech Winner. *Merck Pharma* [[To be completed]]   
+* (2013) Biotech Winner. *Merck Pharma*
 
-* (2012/07/03) Wayra Winner. *Telefónica* [[Picture]](./prizes/20120703_Wayra_Prize.jpg)   
+* (2012/07/03) Wayra Winner. *Telefónica* [[Picture]](https://www.asierarranz.com/cv/prizes/20120703_Wayra_Prize.jpg)   
 
 
 * (2012/03/02) Moile World Congress Green Hackathon Winner. *Telefonica.* [[Link]](https://www.telefonica.com/en/web/public-policy/blog/article/-/blogs/asier-arranz-wins-the-1st-telefonica-and-itu-green-ict-hackathon-for-his-bicing-gamification-application)  
 
-* (2011/10/15) Double Winner Campus Milenio [[Image]](./prizes/20111015_CampusMilenio.jpg) [[Link]](https://www.fayerwayer.com/2011/10/cpmilenio-los-proyectos-ganadores-del-campus-party-milenio/)   
+* (2011/10/15) Double Winner Campus Milenio [[Image]](https://www.asierarranz.com/cv/prizes/20111015_CampusMilenio.jpg) [[Link]](https://www.fayerwayer.com/2011/10/cpmilenio-los-proyectos-ganadores-del-campus-party-milenio/)   
 
 * (2010/04/10) Innovation Winner. *Campus Europa 2010.* [[Link]](https://www.laverdad.es/murcia/v/20100417/cultura/movil-vigia-protesis-entre-20100417.html)  
 
@@ -233,7 +233,7 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 # Complete list of intellectual property  
 *(including patents, licensed technology, etc., and website links)*  
 
-* 3D printed support to connect a pair of 220FOV cameras, to achieve a full 360 camera with stitching. [[Design]](./intellectual_property/20160117_3dprinted_design.jpg) [[Cameras]](./intellectual_property/20160117_3dprinted_cameras.jpg) [[Installation on aircraft]](./intellectual_property/20160117_3dprinted_installation.jpg) [[Robot stereoscopic concept]](./intellectual_property/20160117_3dprinted_robot.jpg)  
+* 3D printed support to connect a pair of 220FOV cameras, to achieve a full 360 camera with stitching. [[Design]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_design.jpg) [[Cameras]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_cameras.jpg) [[Installation on aircraft]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_installation.jpg) [[Robot stereoscopic concept]](https://www.asierarranz.com/cv/intellectual_property/20160117_3dprinted_robot.jpg)  
 
 * AskSkynet: An online website that allows you to query the OpenAI GPT-2 algorithm online. This was made public before OpenAI launch any tool to allow the public usage of the GPT-2 algorithm.  [[Source code]](https://github.com/asierarranz/QiskitUnityAsset)  
 
@@ -247,54 +247,52 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 
 ## Conferences
 
-* (2019/05/28) Artificial Intelligence with Unity. *Google for Startups Campus* [[Image]](./conferences/20190528_AIGoogle.jpg) [[Video]](https://twitter.com/frenopatico/status/1111339613929517057)   
+* (2019/05/28) Artificial Intelligence with Unity. *Google for Startups Campus* [[Image]](https://www.asierarranz.com/cv/conferences/20190528_AIGoogle.jpg) [[Video]](https://twitter.com/frenopatico/status/1111339613929517057)   
 
-* (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](./conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
+* (2019/05/14) Deep Reinforcemente Learning in Unity with ML-Agents. *Techfest 2019* [[Invitation]](https://www.asierarranz.com/cv/conferences/20190514_Techfest_Invitation.jpg) [[Conference video]](https://twitter.com/krknrm/status/1106241706972925952)  
 
-* (2019/04/25) Main Stage Speaker. *TalentLand 2019* [[Image]](./conferences/20190425_TalentLand0.jpg) [[Image]](./conferences/20190425_TalentLand1.jpg) [[Image]](./conferences/20190425_TalentLand2.jpg)  
+* (2019/04/25) Main Stage Speaker. *TalentLand 2019* [[Image]](https://www.asierarranz.com/cv/conferences/20190425_TalentLand0.jpg) [[Image]](https://www.asierarranz.com/cv/conferences/20190425_TalentLand1.jpg) [[Image]](https://www.asierarranz.com/cv/conferences/20190425_TalentLand2.jpg)  
 
-* (2018/11/30) How to make a VR game in a lunar phase. *Google for Startups Campus* [[Announcement]](https://twitter.com/asierarranz/status/1067763201838845952) [[Conference picture]](./conferences/20181130_Google_Games.jpg) 
+* (2018/11/30) How to make a VR game in a lunar phase. *Google for Startups Campus* [[Announcement]](https://twitter.com/asierarranz/status/1067763201838845952) [[Conference picture]](https://www.asierarranz.com/cv/conferences/20181130_Google_Games.jpg) 
 
 
 
-* (2017/05/27) Artificial Intelligence. *AI Love U: Artificial Intelligence Event* [[1st edition Image]](./conferences/20170527_AI_love_U_Vol1.jpg)  
+* (2017/05/27) Artificial Intelligence. *AI Love U: Artificial Intelligence Event* [[1st edition Image]](https://www.asierarranz.com/cv/conferences/20170527_AI_love_U_Vol1.jpg)  
 
 * (2017/01/18) Emerging Technologies and their social impact. *BBVA Innovation Centre* [[Link]](https://www.bbva.com/es/evento-realidad-aumentada-virtual-mixta-2017/) [[Link]](https://twitter.com/valentinamoreno/status/821806706967638017?s=12)  
 
-* (2016/07/24) The rise of augmented reality. *Connected in 360. Palma de Mallorca.* [[Conference picture]](./conferences/20160724_Conectados360.jpg)  
+* (2016/07/24) The rise of augmented reality. *Connected in 360. Palma de Mallorca.* [[Conference picture]](https://www.asierarranz.com/cv/conferences/20160724_Conectados360.jpg)  
 
-* (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](./conferences/20160602_Endesa.jpg) [[Image]](./conferences/20160602_Endesa2.jpg)  
+* (2016/06/02) Bots and artificial intelligence for custommer service *ENDESA Digital Day* [[Endesa official account Twitt]](https://twitter.com/Endesa/status/738298530608058369) [[Image]](https://www.asierarranz.com/cv/conferences/20160602_Endesa.jpg) [[Image]](https://www.asierarranz.com/cv/conferences/20160602_Endesa2.jpg)  
 
-* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](./conferences/20160521_SVCTA.jpg) [[Magazine]](./conferences/20160521_SVCTA2.jpg) 
+* (2016/05/21) Keynote speaker: Stater of the Art of VR/AR ecosystem. *Silicon Valley Chinese Tech Association.* [[Diploma]](https://www.asierarranz.com/cv/conferences/20160521_SVCTA.jpg) [[Magazine]](https://www.asierarranz.com/cv/conferences/20160521_SVCTA2.jpg) 
 
-* (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Conference picture]](./conferences/20160506_UXSpain.jpg)  [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
+* (2016/05/06) Virtual Reality, the new UX. *UX Spain* [[Conference picture]](https://www.asierarranz.com/cv/conferences/20160506_UXSpain.jpg)  [[Link]](https://twitter.com/search?q=%23uxspain%20asierarranz&src=typd) [[Link]](http://uxspain.com/2016/?ponente=asier-arranz)  
 
 * (2016/02/19) Startups in the insurtech market. *AXA.* [[Link]](https://www.elreferente.es/innovadores/azxa-presenta-opensurance-29363)
 
-* (2015/07/05) Emerging Technologies. *TEDx Cibeles* [[Image]](./conferences/20150705_TEDxCibeles.jpg)
+* (2015/07/05) Emerging Technologies. *TEDx Cibeles* [[Image]](https://www.asierarranz.com/cv/conferences/20150705_TEDxCibeles.jpg)
 
-* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](./conferences/20150417_Droidcon.jpg)  
+* (2015/04/18) Android as the core of Virtual Reality *Droidcon Dubai* [[Droidcon official account Twitt]](https://twitter.com/droidconae/status/582478306508869632) [[Image]](https://www.asierarranz.com/cv/conferences/20150417_Droidcon.jpg)  
 
-* (2014/10/05) Emerging Technologies. *Campus Ecuador (Quito)* [[Conference picture]](./conferences/20141005_CPQuito.jpg)  
+* (2014/10/05) Emerging Technologies. *Campus Ecuador (Quito)* [[Conference picture]](https://www.asierarranz.com/cv/conferences/20141005_CPQuito.jpg)  
 
-* (2013/09/26) Virtual reality, real perception: Tricking your brain *TEDx Alcarria.*  [[Image]](./conferences/20130926_TEDxAlcarria.jpg)
+* (2013/09/26) Virtual reality, real perception: Tricking your brain *TEDx Alcarria.*  [[Image]](https://www.asierarranz.com/cv/conferences/20130926_TEDxAlcarria.jpg)
 
-* (2013/09/05) How to create a tech laboratory. *Campus London*  [[Conference picture]](./conferences/20130905_CPLondon.jpg)
-
-* [[To be completed]] TLPs
+* (2013/09/05) How to create a tech laboratory. *Campus London*  [[Conference picture]](https://www.asierarranz.com/cv/conferences/20130905_CPLondon.jpg)
 
 
 ## Workshops
 
-* (2017/03/17) Exponential Technologies (20 hours). *Cantabria Government.* [[Image]](./teaching/20170317_ExponentialTechnologies.jpg) [[Video Interview]](https://www.youtube.com/watch?v=TCM5iKrLG1w)    
+* (2017/03/17) Exponential Technologies (20 hours). *Cantabria Government.* [[Image]](https://www.asierarranz.com/cv/teaching/20170317_ExponentialTechnologies.jpg) [[Video Interview]](https://www.youtube.com/watch?v=TCM5iKrLG1w)    
 
-* (2014/01/31) Google Glass Development Workshop. *Campus Brasil (Sao Paulo)* [[Picture from Google Glass]](./teaching/20140131_GoogleGlassWorkshop.jpg)  
+* (2014/01/31) Google Glass Development Workshop. *Campus Brasil (Sao Paulo)* [[Picture from Google Glass]](https://www.asierarranz.com/cv/teaching/20140131_GoogleGlassWorkshop.jpg)  
 
-* Game Development Courses (Alava/Santander)  [[To be completed]]  
+* (2014) Game Development Courses
 
-* (2013/07/26) Game Development Workshop. *Euskal Encounter* [[Picture]](./teaching/20130726_GameDevelopment.jpg)
+* (2013/07/26) Game Development Workshop. *Euskal Encounter* [[Picture]](https://www.asierarranz.com/cv/teaching/20130726_GameDevelopment.jpg)
 
-* Repsol Tech Business Workshop  [[To be completed]]   
+* (2013) Repsol Tech Business Workshop
 
 # Complete list of publications
 
@@ -320,13 +318,13 @@ Quantum Computing, Artificial Intelligence, Generative Adversarial Networks, Rob
 ### IoT
 * (2017/04/03)	Smart Cities and Digital Transformation. *Ideas Magazine.* [IE Business School] [[Link]](http://ideas.ie.edu/2017/04/03/smart-cities-and-digital-transformation/?lang=en)
 
-* (2014/06/22) Asier Arranz, a technical wizard. *IBERIA Airlines Onboard Magazine* [[Picture of the magazine]](./publications/20140622_Iberia.jpg)  
+* (2014/06/22) Asier Arranz, a technical wizard. *IBERIA Airlines Onboard Magazine* [[Picture of the magazine]](https://www.asierarranz.com/cv/publications/20140622_Iberia.jpg)  
 
 ## Virtual Reality
 
-* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](./publications/20180730_Press_Laguia.jpg)  
+* (2018/07/30) The developer Asier Arranz manages to enter inside Mario Kart. *LA GUIA Newspaper* [[Newspaper]](https://www.asierarranz.com/cv/publications/20180730_Press_Laguia.jpg)  
 
-* (2016/12/18) Capturing the Virtual World. *Pro Moviemaker Magazine* [[Magazine Scan]](./publications/20161218_ProMoviemaker.jpg)  
+* (2016/12/18) Capturing the Virtual World. *Pro Moviemaker Magazine* [[Magazine Scan]](https://www.asierarranz.com/cv/publications/20161218_ProMoviemaker.jpg)  
 
 
 
